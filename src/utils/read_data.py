@@ -238,7 +238,7 @@ def read_f2f_online(cardholder_origin, f2f, online):
 def read_global_cards():
 
     global_cards = pd.read_csv(
-        "/home/jupyter/ft_marketshare/data/raw/Global_data_cards.csv"
+        "/home/jupyter/ft_digital_trade/data/raw/Global_data_cards.csv"
     )
 
     return global_cards
@@ -247,7 +247,7 @@ def read_global_cards():
 def read_global_spend():
 
     global_spend = pd.read_csv(
-        "/home/jupyter/ft_marketshare/data/raw/Global_data_spend.csv"
+        "/home/jupyter/ft_digital_trade/data/raw/Global_data_spend.csv"
     )
 
     return global_spend
@@ -255,7 +255,7 @@ def read_global_spend():
 
 def read_uk_finance():
 
-    uk_finance = pd.read_csv("/home/jupyter/ft_marketshare/data/raw/uk_finance.csv")
+    uk_finance = pd.read_csv("/home/jupyter/ft_digital_trade/data/raw/uk_finance.csv")
 
     uk_finance["date"] = uk_finance["date"].astype("datetime64[ns]")
 
@@ -265,7 +265,7 @@ def read_uk_finance():
 def read_boe():
 
     boe = pd.read_csv(
-        "/home/jupyter/ft_marketshare/data/raw/Average_daily_RTGS_settlement_BoE.csv"
+        "/home/jupyter/ft_digital_trade/data/raw/Average_daily_RTGS_settlement_BoE.csv"
     )
     boe = boe.melt("Values_Volumes", var_name="year", ignore_index=False)
     boe = (
@@ -280,7 +280,7 @@ def read_boe():
 def read_link():
 
     link = pd.read_csv(
-        "/home/jupyter/ft_marketshare/data/raw/Total_Cash_Withdrawal_Volume_Link.csv"
+        "/home/jupyter/ft_digital_trade/data/raw/Total_Cash_Withdrawal_Volume_Link.csv"
     )
 
     return link
