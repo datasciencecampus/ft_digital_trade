@@ -1,8 +1,7 @@
-# `repo_cookiecutter`
+# `Digital trade`
+This repository is used by the digital trade team.
+The project is to use financial transactions data to produce estimates for total household spending by UK cardholders, online and abroad – or household’s digitally ordered imports. 
 
-This is the suggested default template for ONS-fintrans repositories in following with best practice principles. This repository provides users with a quick and consistent way to develop projects that reduce set-up, onboarding, and development time.
-
-The key features are consistent directory structures, simple documentation and AQA planning, pre-commit hooks to promote best practice and reduce data risk, and GIT integration as standard. For full overview please see below and other relevant read_me files under each project section. This is developed from the gov-cookiecutter basic template.
 
 ## Set-up
 The set up instructions are important to ensure that you do not push data to the repository.
@@ -11,12 +10,6 @@ Git should only be used for code and not data, so code files including R files, 
 There are 2 ways in which data and charts can be commited to Git:
 - Seperate files, for example .txt, .csv, .png etc.
 - Within scripts, for example Notebooks etc.
-
-### Git Ignore
-Separate file management is done using a git ignore file in the repository. The git ignore file tells git to skip anything with certain file extensions. \
-This repository has been created using the 'cookie cutter repo template', this means that a git ignore file already exists. \
-**You should check the git ignore file contains all the types of data file in your project** \
-If you require more file extensions to be ignored, these can be added within .gitignore
 
 ### Pre-commit hooks
 Notebooks are a type of code file that allows you to view outputs, they contain information about these outputs. This information needs to be cleared before it is pushed to GitHub, this is done through Pre-commit hooks. \
@@ -44,6 +37,13 @@ make pre_commit
 3) Check pre commit hooks run when you push a commit. If you do not see a list of checks in the terminal, there may be a problem.
 
 4) If you are unsure, create a notebook, create a graph using dummy data, run the notebook, push the changes to the repo. When you open GitHub in a browser you should only be able to see the code you created. If you can see the graph the setup is not correct.
+
+### Git Ignore
+Separate file management is done using a git ignore file in the repository. The git ignore file tells git to skip anything with certain file extensions. \
+This repository has been created using the 'cookie cutter repo template', this means that a git ignore file already exists. \
+**You should check the git ignore file contains all the types of data file in your project** \
+If you require more file extensions to be ignored, these can be added within .gitignore
+
 
 ### Create a virtual environment
 It is strongly recommended that you create a new environment for each project, to avoid dependency issues. This is where the package requirements for the repo can be installed.
