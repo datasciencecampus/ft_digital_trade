@@ -1,0 +1,225 @@
+﻿mcg,VISA Merchant Guide Code,mcc,Goods/ Services,SIC Section,2-digit SIC 2007,SIC Description,"2-digit Match Confidence
+ (1 exact, 0 partial match, ? requires further research/no match)"
+PROFESSIONAL SERVICES,8931,ACCOUNTANTS/AUDITORS/BOOKPR,Services,M,69,Legal and accounting activities,1
+BUSINESS TO BUSINESS,7311,ADVERTISING SERVICES,Services,M,73,Advertising and market research,1
+HOME IMPROVEMENT & SUPPLY,7623,AIR COND/REFRIG REPAIR SHOP,Services,F,43,Specialised construction activities,1
+AIRLINES,3000,AIRLINES,Services,H,51,Air transport,1
+TRANSPORTATION,4582,AIRPORTS/FIELDS/TERMINALS,Services,H,51,Air transport,1
+ENTERTAINMENT,7996,AMUSEMENT PARKS/CIRCUS,Services,R,93,Sports activities and amusement and recreation activities,1
+RETAIL GOODS,5937,ANTIQUE REPRODUCTION STORES,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5932,ANTIQUE SHOPS,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ENTERTAINMENT,7998,AQUARIUMS/SEAQUARIUMS,Services,R,91,"Libraries, archives, museums and other cultural activities",1
+PROFESSIONAL SERVICES,8911,ARCHITECTURAL/ENG/SURVEY,Services,M,69,Legal and accounting activities,1
+RETAIL GOODS,5971,ART DEALERS & GALLERIES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5970,ARTIST/CRAFT SHOPS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+PROFESSIONAL SERVICES,8675,AUTO ASSOCIATIONS,Services,M,69,Legal and accounting activities,1
+AUTOMOTIVE,7531,AUTO BODY REPAIR SHOPS,Services,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+AUTOMOTIVE,7535,AUTO PAINT SHOPS,Services,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+AUTOMOTIVE,7538,AUTO SERVICE SHOPS/NON DEALER,Services,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+FUEL,5542,AUTOMATED FUEL DISPENSERS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+AUTOMOTIVE,5533,AUTOMOTIVE PARTS STORES,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+AUTOMOTIVE,5532,AUTOMOTIVE TIRE STORES,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+EDUCATION & GOVERNMENT,9223,BAIL AND BOND PAYMENTS,Services,M,69,Legal and accounting activities,1
+FOOD & GROCERY,5462,BAKERIES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ENTERTAINMENT,7929,BANDS/ORCHESTRAS/ENTERTAIN,Services,R,90,"Creative, arts and entertainment activities",1
+RETAIL SERVICES,7230,BEAUTY/BARBER SHOPS,Services,S,96,Other personal service activities,1
+RETAIL GOODS,5940,BICYCLE SHOPS/SALES/SERVICE,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ENTERTAINMENT,7932,BILLIARD/POOL ESTABLISHMENT,Services,R,93,Sports activities and amusement and recreation activities,1
+AUTOMOTIVE,4457,BOAT DEALERS,Goods,N,77,Rental and leasing activities,1
+DISCOUNT STORES,5942,BOOK STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5192,BOOKS/PERIODICALS/NEWSPAPERS,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+ENTERTAINMENT,7933,BOWLING ALLEYS,Services,R,93,Sports activities and amusement and recreation activities,1
+TRANSPORTATION,4131,BUS LINES,Services,H,49,Land transport and transport via pipelines,1
+EDUCATION & GOVERNMENT,8244,BUSINESS/SECRETARIAL SCHOOL,Services,M,69,Legal and accounting activities,1
+RETAIL SERVICES,7278,BUYING/SHOPPING SERVICES,Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+TELECOM/UTILITIES,4899,"CABLE, SAT, PAY TV/RADIO SVCS",Services,J,60,Programming and broadcasting activities,1
+RETAIL GOODS,5946,CAMERA & PHOTO SUPPLY STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+TRANSPORTATION,5561,CAMPER TRAILER DEALER,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+FOOD & GROCERY,5441,CANDY/NUT/CONFECTION STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+AUTOMOTIVE,5511,CAR & TRUCK DEALERS/NEW/USED,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+AUTOMOTIVE,5521,CAR & TRUCK DEALERS/USED ONLY,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+AUTOMOTIVE,7542,CAR WASHES,Services,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+HOME IMPROVEMENT & SUPPLY,1750,CARPENTRY,Services,F,43,Specialised construction activities,1
+HOME IMPROVEMENT & SUPPLY,7217,CARPET/UPHOLSTERY CLEANING,Services,S,96,Other personal service activities,1
+DIRECT MARKETING,5964,CATALOG MERCHANT,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RESTAURANTS,5811,CATERERS,Services,I,56,Food and beverage service activities,1
+PROFESSIONAL SERVICES,8398,CHARITABLE/SOC SERVICE ORGS,Services,M,69,Legal and accounting activities,1
+BUSINESS TO BUSINESS,5169,CHEMICALS/ALLIED PRODS - DEF,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+PROFESSIONAL SERVICES,8351,CHILD CARE SERVICES,Services,M,69,Legal and accounting activities,1
+APPAREL & ACCESSORIES,5641,CHILDREN/INFANTS WEAR STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+PROFESSIONAL SERVICES,8641,CIVIC/SOCIAL/FRATERNAL ASSC,Services,M,69,Legal and accounting activities,1
+HOME IMPROVEMENT & SUPPLY,7349,CLEAN/MAINT/JANITORIAL SERV,Services,N,81,Services to buildings and landscape activities,1
+APPAREL & ACCESSORIES,7296,CLOTHING/RENT/COSTUME/UNIFO,Goods,N,77,Rental and leasing activities,1
+PROFESSIONAL SERVICES,7322,COLLECTION AGENCIES,Services,N,82,"Office administrative, office support and other business support activities",1
+EDUCATION & GOVERNMENT,8220,COLLEGES/UNIV/JC/PROFESSION,Services,M,69,Legal and accounting activities,1
+DIRECT MARKETING,5965,COMBINATION CATALOG & RETAIL,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,5046,COMMERCIAL EQUIPMENT - DEFAULT,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,5139,COMMERCIAL FOOTWEAR,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,5021,COMMERCIAL FURNITURE,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+RETAIL SERVICES,7333,COMMERCIAL PHOTO/ART/GRAPH,Services,M,74,"Other professional, scientific and technical activities",1
+ENTERTAINMENT,7941,COMMERCIAL/PRO SPORTS,Services,R,93,Sports activities and amusement and recreation activities,1
+ELECTRONICS,4816,COMPUTER NETWORK/INFO SVCS,Services,J,63,Information service activities,1
+BUSINESS TO BUSINESS,7372,COMPUTER PROGRAM/SYS DESIGN,Services,J,62,"Computer programming, consultancy and related activities",1
+ELECTRONICS,5734,COMPUTER SOFTWARE STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ELECTRONICS,5045,COMPUTERS/PERIPHERALS/SOFTWARE,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,5039,CONSTRUCTION MATERIALS - DEF,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+RETAIL SERVICES,7321,CONSUMER CR REPORTING AGEN,Services,N,82,"Office administrative, office support and other business support activities",1
+ENTERTAINMENT,5968,CONTINUITY/SUBSCRIPTION MERCHT,Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,1771,CONTRACTORS - CONCRETE,Services,F,43,Specialised construction activities,1
+EDUCATION & GOVERNMENT,8241,CORRESPONDENCE SCHOOLS,Services,M,69,Legal and accounting activities,1
+RETAIL GOODS,5977,COSMETIC STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL SERVICES,4215,COURIER SERVICES,Services,H,53,Postal and courier activities,1
+FOOD & GROCERY,5451,DAIRY PRODUCT STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+DEPARTMENT STORES,5311,DEPARTMENT STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+PROFESSIONAL SERVICES,7393,DETECTIVE/PROTECTIVE AGEN,Services,N,80,Security and investigation activities,1
+RETAIL GOODS,5817,DIGITAL GOODS APP(EXCL GAMES),Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5815,DIGITAL GOODS BOOKSMOVIEMUSIC,Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5816,DIGITAL GOODS GAMES,Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+DIRECT MARKETING,5962,DIRECT MKTG-TRAVEL RELATED ARR,Services,M,73,Advertising and market research,1
+DIRECT MARKETING,5963,DIRECT SELL/DOOR-TO-DOOR,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+DISCOUNT STORES,5310,DISCOUNT STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5714,DRAPERY & UPHOLSTERY STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL SERVICES,7261,DRY CLEANERS,Services,S,96,Other personal service activities,1
+RETAIL GOODS,5309,DUTY FREE STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ENTERTAINMENT,7841,DVD/VIDEO TAPE RENTAL STORES,Services,N,77,Rental and leasing activities,1
+RESTAURANTS,5812,EATING PLACES AND RESTAURANTS,Services,I,56,Food and beverage service activities,1
+RETAIL GOODS,5997,ELEC RAZOR STORES/SALE/SERV,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+FUEL,5552,ELECTRIC VEHICLE CHARGING,Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,1731,ELECTRICAL CONTRACTORS,Services,F,43,Specialised construction activities,1
+BUSINESS TO BUSINESS,5065,ELECTRICAL PARTS/EQUIPMENT,Goods,C,27,Manufacture of electrical equipment,1
+ELECTRONICS,5732,ELECTRONICS STORES,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+EDUCATION & GOVERNMENT,8211,ELEMENTARY/SECONDARY SCHOOLS,Services,M,69,Legal and accounting activities,1
+BUSINESS TO BUSINESS,7361,EMPLOYMENT/TEMP HELP AGEN,Services,N,78,Employment activities,1
+HOME IMPROVEMENT & SUPPLY,7394,EQUIP/FURN RENT/LEASE SERV,Services,N,77,Rental and leasing activities,1
+HOME IMPROVEMENT & SUPPLY,7342,EXTERMINATING/DISINFECT SERV,Services,N,81,Services to buildings and landscape activities,1
+RETAIL GOODS,5949,FABRIC STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+APPAREL & ACCESSORIES,5651,FAMILY CLOTHING STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+QSR,5814,FAST FOOD RESTAURANTS,Services,I,56,Food and beverage service activities,1
+ENTERTAINMENT,7289,FILMS/VIDEO PRODUCTION/DIST,Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+EDUCATION & GOVERNMENT,9222,FINES,Services,M,69,Legal and accounting activities,1
+HOME IMPROVEMENT & SUPPLY,5718,FIREPLACES & ACCESSORIES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5713,FLOOR COVERING STORES,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5193,FLORIST SUPPLIES/NURSERY STOCK,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5992,FLORISTS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+FOOD & GROCERY,5422,FREEZER/MEAT LOCKERS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+FUEL,5983,FUEL DEALERS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,7641,FURNITURE REUPHOLSTERY/REPAIR,Services,S,95,Repair of computers and personal and household goods,1
+HOME IMPROVEMENT & SUPPLY,5712,FURNITURE/EQUIP STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+APPAREL & ACCESSORIES,5681,FURRIERS AND FUR SHOPS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,1520,GEN CONTRACTORS RESIDENTL/COML,Services,F,41,Construction of buildings,1
+RETAIL GOODS,5947,"GIFT, CARD, NOVELTY STORES",Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5231,GLASS/PAINT/WALLPAPER STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5950,GLASSWARE/CRYSTAL STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ENTERTAINMENT,7800,GOVERNMENT OWNED LOTTERIES,Services,N,81,Services to buildings and landscape activities,1
+EDUCATION & GOVERNMENT,9399,GOV'T SERV - DEFAULT,Services,M,69,Legal and accounting activities,1
+FOOD & GROCERY,5411,GROCERY STORES/SUPERMARKETS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,5072,HARDWARE EQUIPMENT/SUPPLIES,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5251,HARDWARE STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL SERVICES,7298,HEALTH & BEAUTY SPAS,Services,S,96,Other personal service activities,1
+HEALTH CARE,8011,HEALTH CARE,Services,Q,86,Human health activities,1
+RETAIL GOODS,5945,"HOBBY, TOY & GAME STORES",Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5200,HOME SUPPLY WAREHOUSE STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5722,HOUSEHOLD APPLIANCE STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+DIRECT MARKETING,5967,INBOUND TELEMARKETING MERCHANT,Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,7375,INFORMATION RETRIEVAL SERVICES,Services,J,63,Information service activities,1
+EDUCATION & GOVERNMENT,9950,INTRA-GOVERNMENT PURCHASES,Services,M,69,Legal and accounting activities,1
+RETAIL GOODS,5944,JEWELRY STORES,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,780,LANDSCAPE/HORTICULTURAL SER,Services,M,71,Architectural and engineering activities; technical testing and analysis,1
+RETAIL GOODS,5818,LARGE DIGITAL GOODS MERCHANT,Services,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL SERVICES,7211,LAUNDRIES-FAMILY/COMMERCIAL,Services,S,96,Other personal service activities,1
+RETAIL SERVICES,7216,LAUNDRY/CLEANING/GARMENT SV,Services,S,96,Other personal service activities,1
+TRANSPORTATION,4111,LOCAL COMMUTER TRANSPORT,Services,H,49,Land transport and transport via pipelines,1
+LODGING,7011,LODGING,Services,I,55,Accommodation,1
+RETAIL GOODS,5948,LUGGAGE/LEATHER STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5211,LUMBER/BUILD. SUPPLY STORES,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,1740,MASONRY/TILE/PLASTER/INSUL,Services,F,43,Specialised construction activities,1
+ENTERTAINMENT,7997,MEMBER CLUBS/SPORT/REC/GOLF,Services,R,93,Sports activities and amusement and recreation activities,1
+PROFESSIONAL SERVICES,8699,MEMBER ORGANIZATIONS - DEF,Services,M,69,Legal and accounting activities,1
+APPAREL & ACCESSORIES,5611,MEN/BOYS CLOTHING/ACC STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+APPAREL & ACCESSORIES,5691,MENS/WOMENS CLOTHING STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+PROFESSIONAL SERVICES,7392,MGMT/CONSULT/PUBLIC REL SER,Services,M,70,Activities of head offices; management consultancy activities,1
+APPAREL & ACCESSORIES,5699,MISC APPAREL/ACCESS STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+FOOD & GROCERY,5499,MISC FOOD STORES - DEFAULT,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+DISCOUNT STORES,5399,MISC GENERAL MERCHANDISE,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5719,MISC HOME FURNISHING SPECIALTY,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,2741,MISC PUBLISHING & PRINTING,Services,J,58,Publishing activities,1
+HOME IMPROVEMENT & SUPPLY,7699,MISC REPAIR SERVICES,Services,N,81,Services to buildings and landscape activities,1
+DEPARTMENT STORES,5999,MISC SPECIALTY RETAIL,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5271,MOBILE HOME DEALERS,Goo,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+ENTERTAINMENT,7832,MOTION PICTURE THEATRES,Services,J,59,"Motion picture, video and television programme production, sound recording and music publishing activities",1
+RETAIL SERVICES,4214,MOTOR FREIGHT CARRIERS,Services,H,49,Land transport and transport via pipelines,1
+AUTOMOTIVE,5592,MOTOR HOME DEALERS,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+AUTOMOTIVE,5013,MOTOR VEHICLE SUPPLY/NEW PARTS,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+AUTOMOTIVE,5571,MOTORCYCLE DEALERS,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+RETAIL GOODS,5733,MUSIC STORES/PIANOS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5994,NEWS DEALERS/NEWSSTANDS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5261,"NURSERIES, LAWN/GARDEN SUPPLY",Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ELECTRONICS,5044,OFFICE/PHOTO EQUIPMENT,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+ONLINE MARKETPLACES,5262,ONLINE MARKETPLACES,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+DIRECT MARKETING,5969,OTHER DIRECT MARKETERS,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+DIRECT MARKETING,5966,OUTBOUND TELEMARKETING MERCHNT,Both,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,5198,"PAINT, VARNISHES & SUPPLIES",Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+TRANSPORTATION,7523,"PARKING LOTS,METERS,GARAGES",Services,H,52,Warehousing and support activities for transportation,1
+TRANSPORTATION,4112,PASSENGER RAILWAYS,Services,H,49,Land transport and transport via pipelines,1
+RETAIL GOODS,5995,PET STORES/FOOD & SUPPLY,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+FUEL,5172,PETROLEUM/PETROLEUM PRODUCTS,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+RETAIL SERVICES,7221,PHOTO STUDIOS,Services,M,74,"Other professional, scientific and technical activities",1
+BUSINESS TO BUSINESS,7395,PHOTOFINISH LABS/DEV,Services,M,74,"Other professional, scientific and technical activities",1
+EDUCATION & GOVERNMENT,9402,POSTAGE STAMPS,Goods,M,69,Legal and accounting activities,1
+RETAIL GOODS,5094,PRECIOUS STONES/METALS/JEWELRY,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+PROFESSIONAL SERVICES,8999,PROFESSIONAL SERVICES - DEF,Services,M,69,Legal and accounting activities,1
+ENTERTAINMENT,7992,PUBLIC GOLF COURSES,Services,R,93,Sports activities and amusement and recreation activities,1
+RETAIL SERVICES,4225,PUBLIC WAREHOUSING,Services,H,52,Warehousing and support activities for transportation,1
+RETAIL SERVICES,7338,QUICK COPY/REPRO SERVICES,Services,N,82,"Office administrative, office support and other business support activities",1
+ELECTRONICS,7622,RADIO/TV/STEREO REPAIR SHOP,Goods,S,95,Repair of computers and personal and household goods,1
+TRANSPORTATION,4011,RAILROADS,Services,H,49,Land transport and transport via pipelines,1
+PROFESSIONAL SERVICES,6513,REAL EST AGNTS & MGRS RENTALS,Services,L,68,Real estate activities,1
+RETAIL GOODS,5735,RECORD STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5973,RELIGIOUS GOODS STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,1761,ROOFING/SIDING/SHEET METAL,Goods,F,43,Specialised construction activities,1
+EDUCATION & GOVERNMENT,8299,SCHOOLS - DEFAULT,Services,M,69,Legal and accounting activities,1
+FUEL,5541,SERVICE STATIONS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL SERVICES,7251,SHOE REPAIR/SHINE/HAT CLEAN,Services,S,95,Repair of computers and personal and household goods,1
+APPAREL & ACCESSORIES,5661,SHOE STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+HOME IMPROVEMENT & SUPPLY,7629,SMALL APPLIANCE REPAIR DEF,Goods,S,95,Repair of computers and personal and household goods,1
+AUTOMOTIVE,5598,SNOWMOBILE DEALERS,Goods,G,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+HOME IMPROVEMENT & SUPPLY,1799,SPEC CONTRACTORS - DEFAULT,Services,F,43,Specialised construction activities,1
+BUSINESS TO BUSINESS,2842,SPECIALTY CLEANING/POLISHING,Services,C,20,Manufacture of chemicals and chemical products,1
+RETAIL GOODS,5941,SPORTING GOODS STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ENTERTAINMENT,7032,SPORTING/RECREATIONAL CAMPS,Services,I,55,Accommodation,1
+APPAREL & ACCESSORIES,5655,SPORTS/RIDING APPAREL STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5972,STAMP & COIN STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5943,STATIONERY STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,5111,STATIONERY/OFFICE SUPPLIES,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+TRANSPORTATION,4411,STEAMSHIP/CRUISE LINES,Services,H,50,Water transport,1
+RETAIL SERVICES,7339,STENOGRAPHIC SERVICES,Services,N,82,"Office administrative, office support and other business support activities",1
+HOME IMPROVEMENT & SUPPLY,5996,SWIMMING POOLS/SALES/SERV,Both,F,43,Specialised construction activities,1
+RETAIL SERVICES,5697,TAILOR/SEAMSTRESS/ALTERS,Services,C,14,Manufacture of wearing apparel,1
+EDUCATION & GOVERNMENT,9311,TAX PAYMENTS,Services,M,69,Legal and accounting activities,1
+PROFESSIONAL SERVICES,7276,TAX PREPARATION SERVICE,Services,M,69,Legal and accounting activities,1
+TRANSPORTATION,4121,TAXICABS/LIMOUSINES,Services,H,49,Land transport and transport via pipelines,1
+TELECOM/UTILITIES,4814,TELECOMMUNICATION SERVICES,Goods,J,61,Telecommunications,1
+RETAIL SERVICES,4821,TELEGRAPH SERVICES,Services,J,61,Telecommunications,1
+RETAIL GOODS,5998,TENT AND AWNING SHOPS,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+BUSINESS TO BUSINESS,8734,TESTING LABS (NON-MEDICAL),Services,M,69,Legal and accounting activities,1
+ENTERTAINMENT,7922,THEATRICAL PRODUCERS,Services,N,79,"Travel agency, tour operator and other reservation service and related activities",1
+AUTOMOTIVE,7534,TIRE RETREAD/REPAIR SHOPS,Both,C,22,Manufacture of rubber and plastic products,1
+ENTERTAINMENT,7991,TOURIST ATTRACTIONS AND XHBT,Services,R,91,"Libraries, archives, museums and other cultural activities",1
+AUTOMOTIVE,7549,TOWING SERVICES,Services,H,52,Warehousing and support activities for transportation,1
+EDUCATION & GOVERNMENT,8249,TRADE/VOCATIONAL SCHOOLS,Services,M,69,Legal and accounting activities,1
+TRAVEL SERVICES,4722,TRAVEL AGENCIES,Services,N,79,"Travel agency, tour operator and other reservation service and related activities",1
+RETAIL SERVICES,5978,TYPEWRITER/SALES/SERVICE,Services,C,33,Repair and installation of machinery and equipment,1
+BUSINESS TO BUSINESS,5137,UNIFORMS & COMMERCIAL CLOTHING,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5931,USED MERCHANDISE STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+DISCOUNT STORES,5331,VARIETY STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+VEHICLE RENTAL,7512,VEHICLE RENTAL,Services,N,77,Rental and leasing activities,1
+HEALTH CARE,742,VETERINARY SERVICES,Services,M,75,Veterinary activities,1
+ENTERTAINMENT,7993,VIDEO AMUSEMENT GAME SUPPLY,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+ENTERTAINMENT,7994,VIDEO GAME ARCADES/ESTABLISH,Services,S,96,Other personal service activities,1
+RETAIL SERVICES,7631,WATCH/CLOCK/JEWELRY REPAIR,Services,S,95,Repair of computers and personal and household goods,1
+HOME IMPROVEMENT & SUPPLY,7692,WELDING SERVICES,Services,C,25,"Manufacture of fabricated metal products, except machinery and equipment",1
+WHOLESALE CLUBS,5300,WHOLESALE CLUBS,Goods,G,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+APPAREL & ACCESSORIES,5698,WIG AND TOUPEE STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+APPAREL & ACCESSORIES,5631,WOMENS ACCESS/SPECIALTY,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+APPAREL & ACCESSORIES,5621,WOMENS READY TO WEAR STORES,Goods,G,47,"Retail trade, except of motor vehicles and motorcycles",1
+RETAIL GOODS,5935,WRECKING SALVAGE YARDS,Goods,E,38,"Waste collection, treatment and disposal activities; materials recovery",1
