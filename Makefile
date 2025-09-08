@@ -7,42 +7,14 @@
 	help
 	prepare_docs_folder
 	requirements
-	create_venv
-	create_kernel
-	venv
-	delete_venv
 
 .DEFAULT_GOAL := help
 
 ## Install the Python requirements for contributors, and install pre-commit hooks
-pre_commit:
+requirements:
 	python -m pip install -U pip setuptools
-	python -m pip install pre-commit
+	python -m pip install -r requirements.txt
 	pre-commit install
-
-## Install a venv
-
-# Define the name of the virtual environment based on the current directory
-VENV_NAME = venv_$(shell basename $(CURDIR))
-
-# Target to create a virtual environment and install requirements.txt
-create_venv:
-	python -m venv $(VENV_NAME)
-	bash -c "source $(VENV_NAME)/bin/activate && pip install --upgrade pip && pip install -r requirements.txt"
-
-# Target to create an IPython kernel
-create_kernel: create_venv
-	bash -c 'source $(VENV_NAME)/bin/activate && pip install ipykernel && python -m ipykernel install --user --name $(VENV_NAME) --display-name "Python - $(VENV_NAME)"'
-
-# Target to set up the environment (create venv, install requirements, and create kernel)
-venv: create_kernel
-
-# Target to delete the virtual environment and IPython kernel
-delete_venv:
-	# Remove the virtual environment directory
-	rm -rf $(VENV_NAME)
-	# Remove the IPython kernel
-	jupyter kernelspec remove -f $(VENV_NAME)
 
 ## Create a `docs/_build` folder, if it does not exist. Otherwise delete any sub-folders and their contents within it
 prepare_docs_folder:
